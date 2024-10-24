@@ -5,7 +5,7 @@
     <metadataSchema>ADL SCORM 1.2</metadataSchema>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.H5PAuthor.PasswordSecurity.e789d6e6-6587-48ac-b387-95aeb22ea337</entry>
+      <entry>com.H5PAuthor.PasswordSecurity.b5ffcad0-9c5a-45b4-8439-76d049c40e70</entry>
     </identifier>
     <language>en</language>
     <contribute>
@@ -18,15 +18,15 @@ VERSION:2.1
 ORG:H5P Author
 END:VCARD  ]]></entity>
       <date>
-        <dateTime>2024-08-14</dateTime>
-        <description language="en"><![CDATA[1723664360627]]></description>
+        <dateTime>2024-10-24</dateTime>
+        <description language="en"><![CDATA[1729775468453]]></description>
       </date>
     </contribute>
   </metametadata>
   <general>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.H5PAuthor.PasswordSecurity.e789d6e6-6587-48ac-b387-95aeb22ea337</entry>
+      <entry>com.H5PAuthor.PasswordSecurity.b5ffcad0-9c5a-45b4-8439-76d049c40e70</entry>
     </identifier>
     <title>
       <string language="en"><![CDATA[Password Security]]></string>
@@ -58,8 +58,8 @@ VERSION:2.1
 ORG:H5P Author
 END:VCARD  ]]></entity>
       <date>
-        <dateTime>2024-08-14</dateTime>
-        <description language="en"><![CDATA[1723664360627]]></description>
+        <dateTime>2024-10-24</dateTime>
+        <description language="en"><![CDATA[1729775468453]]></description>
       </date>
     </contribute>
     <contribute>
@@ -72,8 +72,8 @@ VERSION:2.1
 ORG:H5P Author
 END:VCARD  ]]></entity>
       <date>
-        <dateTime>2024-08-14</dateTime>
-        <description language="en"><![CDATA[1723664360627]]></description>
+        <dateTime>2024-10-24</dateTime>
+        <description language="en"><![CDATA[1729775468453]]></description>
       </date>
     </contribute>
     <contribute>
@@ -87,8 +87,8 @@ NOTE:version 1.0.0
 ORG:H5P Author
 END:VCARD  ]]></entity>
       <date>
-        <dateTime>2024-08-14</dateTime>
-        <description language="en"><![CDATA[1723664360627]]></description>
+        <dateTime>2024-10-24</dateTime>
+        <description language="en"><![CDATA[1729775468453]]></description>
       </date>
     </contribute>
     <contribute>
@@ -101,8 +101,8 @@ VERSION:2.1
 ORG:H5P Author
 END:VCARD  ]]></entity>
       <date>
-        <dateTime>2024-08-14</dateTime>
-        <description language="en"><![CDATA[1723664360627]]></description>
+        <dateTime>2024-10-24</dateTime>
+        <description language="en"><![CDATA[1729775468453]]></description>
       </date>
     </contribute>
   </lifeCycle>
